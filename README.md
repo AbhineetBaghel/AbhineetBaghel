@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Abhineet Singh Baghel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px></h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbhineetBaghel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 🌱 I’m currently learning React<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me baghelabhicoc7@gmail.com<br><br>⚡ Fun fact idhar kya krrha hai? code kr jaakr
 
@@ -14,9 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AbhineetBaghel&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbhineetBaghel&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhineetBaghel&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhineetBaghel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=abhineet_baghel)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
