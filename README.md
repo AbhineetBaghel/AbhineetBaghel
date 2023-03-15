@@ -4,6 +4,15 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhineetBaghel&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/AbhineetBaghel/count.svg" />  
+</p>
+
 # 💫 About Me:
 🌱 I’m currently learning React<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me baghelabhicoc7@gmail.com<br><br>⚡ Fun fact idhar kya krrha hai? code kr jaakr
 
