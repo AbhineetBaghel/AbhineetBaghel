@@ -1,3 +1,6 @@
+<h1 align="center">Hi, I'm Abhineet Singh Baghel <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px height = 30px></h1>
+<h3 align="center">A passionate full stack developer from India</h3>
+
 # 💫 About Me:
 🌱 I’m currently learning React<br><br>💬 Ask me about web2 web3<br><br>📫 How to reach me baghelabhicoc7@gmail.com<br><br>⚡ Fun fact idhar kya krrha hai? code kr jaakr
 
